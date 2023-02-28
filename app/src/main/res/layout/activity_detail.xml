@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/iv_object_received"
+        android:layout_width="140dp"
+        android:layout_height="210dp"
+        android:scaleType="fitXY"
+        android:contentDescription="TODO" />
+    <TextView
+        android:id="@+id/tv_object_received"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="26dp"
+        android:layout_toEndOf="@id/iv_object_received"
+        tools:text="name_heroes"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/tv_object_received2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_object_received"
+        android:layout_marginStart="26dp"
+        android:layout_marginTop="10dp"
+        android:layout_toEndOf="@id/iv_object_received"
+        android:ellipsize="end"
+        android:maxLines="3"
+        android:textSize="18sp"
+        tools:text="lorem" />
+    <TextView
+        android:id="@+id/genre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_object_received2"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="26dp"
+        android:layout_toEndOf="@id/iv_object_received"
+        android:textSize="18sp"
+        tools:text="Genre : Animation, Adventure, Comedy"/>
+
+    <ImageView
+        android:id="@+id/imdb_logo"
+        android:layout_width="60dp"
+        android:layout_height="30dp"
+        android:layout_below="@id/iv_object_received"
+        android:layout_marginTop="26dp"
+        android:src="@drawable/imdb_logo"
+        android:contentDescription="TODO" />
+    <TextView
+        android:id="@+id/imdb_text"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:gravity="center"
+        android:layout_toEndOf="@id/imdb_logo"
+        android:layout_marginStart="20dp"
+        android:layout_below="@id/iv_object_received"
+        android:layout_marginTop="26dp"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        tools:text="7.9 / 10"/>
+
+    <TextView
+        android:id="@+id/storyline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:layout_below="@id/imdb_logo"
+        android:layout_marginTop="10dp"
+        android:textStyle="bold"
+        tools:text="Storyline"/>
+    <TextView
+        android:id="@+id/storyline_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/storyline"
+        android:lineSpacingMultiplier="1.3"
+        android:layout_marginTop="10dp"
+        android:scrollbars="vertical"
+        android:textSize="16sp"
+        tools:text="Lorem Ipsum"/>
+</RelativeLayout>
+</ScrollView>

@@ -1,0 +1,162 @@
+<resources>
+    <string name="app_name">WhatsUpp</string>
+    <string name="heroes_name">Nama Pahlawan</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="storyline">Storyline</string>
+
+    <string name="tab_text_1">Movie</string>
+    <string name="tab_text_2">TV Show</string>
+    <string name="tab_text_3">Setting</string>
+    <string name="content_tab_home">Welcome Home</string>
+    <string name="content_tab_profile">Change your Profile here</string>
+    <string name="content_tab_text">This is Tab</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string-array name="data_name">
+        <item>Milea: Suara dari Dilan</item>
+        <item>Nanti Kita Cerita Tentang Hari Ini</item>
+        <item>Toy Story 4</item>
+        <item>Pokémon Detective Pikachu</item>
+        <item>Avengers: Endgame</item>
+        <item>Spider-Man: Far From Home</item>
+        <item>Midsommar</item>
+        <item>Joker</item>
+        <item>Fantastic Beasts: The Crimes of Grindelwald</item>
+        <item>Maze Runner : The Death Cure</item>
+
+        <item>Minecraft Epic</item>
+        <item>Meme Review</item>
+        <item>Breaking Bad</item>
+        <item>Chernobyl</item>
+        <item>Game of Thrones</item>
+        <item>Flames</item>
+        <item>Rick and Morty</item>
+        <item>Pew News</item>
+        <item>Avatar: The Last Airbender</item>
+        <item>Stranger Things</item>
+    </string-array>
+    <string-array name="data_main_desc">
+        <item>Genre : Drama, Romance\nDuration : 1h 42min\nCertificate : 13+</item>
+        <item>Genre : Drama, Family\nDuration : 2h 1min\nCertificate : 13+</item>
+        <item>Genre : Animation, Adventure, Comedy\nDuration : 1h 40min\nCertificate : SU</item>
+        <item>Genre : Action, Adventure, Comedy\nDuration : 1h 44min\nCertificate : SU</item>
+        <item>Genre : Action, Adventure, Drama\nDuration : 3h 1min\nCertificate : 13+</item>
+        <item>Genre : Action, Adventure, Sci-Fi\nDuration : 2h 9min\nCertificate : SU</item>
+        <item>Genre : Drama, Horror, Mystery\nDuration : 2h 27min\nCertificate : 21+</item>
+        <item>Genre : Crime, Drama, Thriller\nDuration : 2h 2min\nCertificate : 17+</item>
+        <item>Genre : Adventure, Family, Fantasy\nDuration : 2h 14min\nCertificate : 13+</item>
+        <item>Genre : Action, Adventure, Sci-Fi\nDuration : 2h 23min\nCertificate : 13+</item>
+
+        <item>Genre : Action, Adventure, Comedy\nDuration : -\nCertificate : 12</item>
+        <item>Genre : Short, Comedy, Talk-Show\nDuration : -\nCertificate : Not Rated</item>
+        <item>Genre : Crime, Drama, Thriller\nDuration : 49min\nCertificate : 15</item>
+        <item>Genre : Drama, History, Thriller\nDuration : 5h 30min\nCertificate : 15</item>
+        <item>Genre : Action, Adventure, Drama\nDuration : 57min\nCertificate : 18</item>
+        <item>Genre : Comedy, Drama, Romance\nDuration : 20min\nCertificate : Not Rated</item>
+        <item>Genre : Animation, Adventure, Comedy\nDuration : 23min\nCertificate : 15</item>
+        <item>Genre : Comedy, News\nDuration : 15min\nCertificate : Not Rated</item>
+        <item>Genre : Animation, Action, Adventure\nDuration : 23min\nCertificate : PG</item>
+        <item>Genre : Drama, Fantasy, Horror\nDuration : 51min\nCertificate : 15</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>(2020)</item>
+        <item>(2020)</item>
+        <item>(2020)</item>
+        <item>(2019)</item>
+        <item>(2019)</item>
+        <item>(2019)</item>
+        <item>(2019)</item>
+        <item>(2019)</item>
+        <item>(2019)</item>
+        <item>(2018)</item>
+
+        <item>(2019-)</item>
+        <item>(2017–)</item>
+        <item>(2008–2013)</item>
+        <item>TV Mini-Series (2019)</item>
+        <item>TV Series (2011–2019)</item>
+        <item>TV Series (2018– )</item>
+        <item>TV Series (2013– )</item>
+        <item>TV Series (2018–2020)</item>
+        <item>TV Series (2005–2008)</item>
+        <item>TV Series (2016– )</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="data_photo">
+        <item>https://m.media-amazon.com/images/M/MV5BODJkMTg5ZjctYTM4Ni00ZGJiLTgxNDYtNDQ5NDUzOTVmNjRhXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_UX182_CR0,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BNWQ5MGRiZGItZTFkMS00YTRmLWE1NmMtNDJlYmY3N2E2Y2VmXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_UY268_CR16,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_UX182_CR0,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BNDU4Mzc3NzE5NV5BMl5BanBnXkFtZTgwMzE1NzI1NzM@._V1_UX182_CR0,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_UX182_CR0,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BMGZlNTY1ZWUtYTMzNC00ZjUyLWE0MjQtMTMxN2E3ODYxMWVmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_UX182_CR0,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BYWVlMDI5N2UtZTIyMC00NjZkLWI5Y2QtODM5NGE5MzA0NmVjXkEyXkFqcGdeQXVyNzU3NjUxMzE@._V1_UX182_CR0,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BMTYyNzk3MDc2NF5BMl5BanBnXkFtZTgwMDk3OTM1NDM@._V1_UX182_CR0,0,182,268_AL_.jpg</item>
+
+        <item>https://m.media-amazon.com/images/M/MV5BODk3M2ZlMzctMWZkYS00ZGM5LTkxODYtODkxOWZkOWYzODYzXkEyXkFqcGdeQXVyNjU1OTg4OTM@._V1_UX182_CR0,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BNWYxY2RjODYtNzA2OC00ZjFiLThiOTItZDdlZDM1MDE3Yjk0XkEyXkFqcGdeQXVyOTc5Mjg1NDQ@._V1_UY268_CR9,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BMjhiMzgxZTctNDc1Ni00OTIxLTlhMTYtZTA3ZWFkODRkNmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY268_CR5,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BZGQ2YmMxZmEtYjI5OS00NzlkLTlkNTEtYWMyMzkyMzc2MDU5XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_UX182_CR0,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UY268_CR7,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BMGM5OTlmNjYtYmFlZi00MDY3LTk5YTctNTBlNjliZjEzY2E2XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_UY268_CR16,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BMjRiNDRhNGUtMzRkZi00MThlLTg0ZDMtNjc5YzFjYmFjMmM4XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UY268_CR2,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BNjc2NzRlNzgtYWEzZi00MTYwLTlkNmItYzI5YzdlODRjYjQ0XkEyXkFqcGdeQXVyODgzOTQ0NzA@._V1_UY268_CR146,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BODc5YTBhMTItMjhkNi00ZTIxLWI0YjAtNTZmOTY0YjRlZGQ0XkEyXkFqcGdeQXVyODUwNjEzMzg@._V1_UX182_CR0,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BZGExYjQzNTQtNGNhMi00YmY1LTlhY2MtMTRjODg3MjU4YTAyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</item>
+    </string-array>
+
+    <string-array name="data_imdb">
+        <item>6.5 / 10</item>
+        <item>7.8 / 10</item>
+        <item>7.9 / 10</item>
+        <item>6.6 / 10</item>
+        <item>8.5 / 10</item>
+        <item>7.6 / 10</item>
+        <item>7.2 / 10</item>
+        <item>8.6 / 10</item>
+        <item>6.6 / 10</item>
+        <item>6.2 / 10</item>
+
+        <item>9.8 / 10</item>
+        <item>9.7 / 10</item>
+        <item>9.5 / 10</item>
+        <item>9.4 / 10</item>
+        <item>9.3 / 10</item>
+        <item>9.3 / 10</item>
+        <item>9.2 / 10</item>
+        <item>9.2 / 10</item>
+        <item>9.2 / 10</item>
+        <item>8.8 / 10</item>
+    </string-array>
+
+    <string-array name="data_storyline">
+        <item>  Dilan (Iqbaal Ramadhan), the combat commander of a motorcycle gang in Bandung in the early 90s, formed a relationship with a new female student from Jakarta named Milea (Vanesha Prescilla). Dilan was always happy when he was with Milea, but his motorcycle gang friends feel that Dilan was getting away from his group because of Milea. A terrible event happened: one of their members, Akew (Gusti Rayhan), died of being beaten by a group of people. The incident made Milea worried about the safety of Dilan. Milea made the decision to part with Dilan as a warning for Dilan to stay away from the motorcycle gang. The Akew incident dragged Dilan to the authorities along with his friends. The parting which had been only a bluff for Milea became a parting that lasted until they graduated from college and grew up. They both still carry the same feeling when they meet again at a reunion, but each of them already has a partner. Written by filmindonesia.or.id</item>
+        <item>  Every family has a secret. Angkasa (Rio Dewanto), Aurora (Sheila Dra) and Awan (Rachel amanda) are siblings who live in happy-looking families. After experiencing his first major failure, Awan meets Kale (Ardhito Pramono), an eccentric guy who gives Awan a new life experience, about broken, up, falling, growing, lost and all the fear of humans in general. Changes in Awan attitude under pressure from his parents. This prompted the rebellion of the three siblings which led to the discovery of the secrets and great trauma in their families. (IMDb)</item>
+        <item>  Woody, Buzz Lightyear and the rest of the gang embark on a road trip with Bonnie and a new toy named Forky. The adventurous journey turns into an unexpected reunion as Woody\'s slight detour leads him to his long-lost friend Bo Peep. As Woody and Bo discuss the old days, they soon start to realize that they\'re two worlds apart when it comes to what they want from life as a toy. Written by Jwelch5742. (IMDb)</item>
+        <item>  The story begins when ace detective Harry Goodman goes mysteriously missing, prompting his 21-year-old son Tim to find out what happened. Aiding in the investigation is Harry\'s former Pokémon partner, Detective Pikachu: a hilariously wise-cracking, adorable super-sleuth who is a puzzlement even to himself. Finding that they are uniquely equipped to communicate with one another, Tim and Pikachu join forces on a thrilling adventure to unravel the tangled mystery. Chasing clues together through the neon-lit streets of Ryme City—a sprawling, modern metropolis where humans and Pokémon live side by side in a hyper-realistic live-action world—they encounter a diverse cast of Pokémon characters and uncover a shocking plot that could destroy this peaceful co-existence and threaten the whole Pokémon universe. (IMDb)</item>
+        <item>  After the devastating events of Avengers: Infinity War (2018), the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos\'s actions and undo the chaos to the universe, no matter what consequences may be in store, and no matter who they face… (IMDb)</item>
+        <item>  Our friendly neighborhood Super Hero decides to join his best friends Ned, MJ, and the rest of the gang on a European vacation. However, Peter\'s plan to leave super heroics behind for a few weeks are quickly scrapped when he begrudgingly agrees to help Nick Fury uncover the mystery of several elemental creature attacks, creating havoc across the continent. Written by Sony Pictures Entertainment</item>
+        <item>  Dani (Florence Pugh) and Christian (Jack Reynor) are a young American couple with a relationship on the brink of falling apart. But after a family tragedy keeps them together, a grieving Dani invites herself to join Christian and his friends on a trip to a once-in-a-lifetime midsummer festival in a remote Swedish village. What begins as a carefree summer holiday in a land of eternal sunlight takes a sinister turn when the insular villagers invite their guests to partake in festivities that render the pastoral paradise increasingly unnerving and viscerally disturbing. Written by A24 Releasing (IMDb)</item>
+        <item>  Joker centers around an origin of the iconic arch nemesis and is an original, standalone story not seen before on the big screen. Todd Phillips\' exploration of Arthur Fleck (Joaquin Phoenix), a man disregarded by society is not only a gritty character study, but also a broader cautionary tale. Written by Warner Bros.</item>
+        <item>  In an effort to thwart Grindelwald\'s plans of raising pure-blood wizards to rule over all non-magical beings, Albus Dumbledore enlists his former student Newt Scamander, who agrees to help, though he\'s unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world. Written by sunny skies (IMDb)</item>
+        <item>  In the epic finale to The Maze Runner Saga, Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary last city, a WCKD controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get the answers to the questions the Gladers have been asking since they first arrived in the maze. Will Thomas and the crew make it out alive? Or will Ava Paige get her way? (IMDb)</item>
+
+        <item>  Season two shows our hero (pewds) in the aftermath of the ender dragon fight. Even though he loses friends along the way, he still stands strong. He just needs to keep in mind that not all his friends are as they seem. (Season two still airing online) (Not finished)</item>
+        <item>  Sometimes famous celebrities who have to do something with the "meme-world" or people who are famous in the meme-world, called "meme-lords" are invited to host meme review and rate memes just like Felix. These events are much appreciated by the audience.</item>
+        <item>  When chemistry teacher Walter White is diagnosed with Stage III cancer and given only two years to live, he decides he has nothing to lose. He lives with his teenage son, who has cerebral palsy, and his wife, in New Mexico. Determined to ensure that his family will have a secure future, Walt embarks on a career of drugs and crime. He proves to be remarkably proficient in this new world as he begins manufacturing and selling methamphetamine with one of his former students. The series tracks the impacts of a fatal diagnosis on a regular, hard working man, and explores how a fatal diagnosis affects his morality and transforms him into a major player of the drug trade. Written by WellardRockard, jackenyon</item>
+        <item>  In April 1986, a huge explosion erupted at the Chernobyl nuclear power station in northern Ukraine. This series follows the stories of the men and women, who tried to contain the disaster, as well as those who gave their lives preventing a subsequent and worse one.</item>
+        <item>  In the mythical continent of Westeros, several powerful families fight for control of the Seven Kingdoms. As conflict erupts in the kingdoms of men, an ancient enemy rises once again to threaten them all. Meanwhile, the last heirs of a recently usurped dynasty plot to take back their homeland from across the Narrow Sea. Written by Sam Gray</item>
+        <item>  FLAMES #PadhaiAurPyaar is the story of a young romance unfolding as a chemical reaction. Class topper Rajat falls for Ishita, the new girl in the tuition centre. Rajat\'s BFFs, Pandey and Anusha\'s friendship is beginning to turn into a relationship. The equations of friendships evolve in the first season of this teenage romance. This web series takes you to the time when everything seemed innocent - when the idea of spending time with your crush meant helping them finish their homework. The rosy teenage days when finding love and topping exams were the only aims in life.</item>
+        <item>  An animated series on adult-swim about the infinite adventures of Rick, a genius alcoholic and careless scientist, with his grandson Morty, a 14 year-old anxious boy who is not so smart. Together, they explore the infinite universes; causing mayhem and running into trouble. Written by Ruben Galaviz</item>
+        <item>  The Pew News team reports unbiased news in which neither Gloria or Poppy ever give their own opinion, but sometimes they do. Just don\'t tell Pewdiepie.</item>
+        <item>  The world is divided into four elemental nations: The Northern and Southern Water Tribes, the Earth Kingdom, the Fire Nation, and the Air Nomads. The Avatar upholds the balance between the nations, but everything changed when the Fire Nation invaded. Only the Avatar, master of all four elements, can stop them. But when the world needs him most, he vanishes. A hundred years later Katara and Sokka discover the new Avatar, an airbender named Aang. Together they must help Aang master the elements and save the world.</item>
+        <item>  In a small town where everyone knows everyone, a peculiar incident starts a chain of events that leads to the disappearance of a child, which begins to tear at the fabric of an otherwise peaceful community. Dark government agencies and seemingly malevolent supernatural forces converge on the town, while a few of the locals begin to understand that there\'s more going on than meets the eye. Written by Charles J.</item>
+    </string-array>
+</resources>

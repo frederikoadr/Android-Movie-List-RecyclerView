@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quoi de neuf</string>
+    <string name="tab_text_1">Films</string>
+    <string name="tab_text_2">Émission de télévision</string>
+    <string name="change_language_settings">Changer les paramètres de langue</string>
+</resources>
