@@ -7,4 +7,5 @@ List of Movies using Android Studio RecyclerView and Tab Layout Fragments
 
 Powered with Java Android Studio and XML Markdown editor.
 Apps can display different content using a single layout view due to RecyclerView.
+
 ![Movie Lit - Animated gif demo](demo.gif)
